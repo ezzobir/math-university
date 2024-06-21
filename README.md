@@ -1,1 +1,9 @@
-# math-university
+# math-universityk
+
+نظرا للحجم الكبير للملفات فقد قمت بجعل مستودع لكل عام دراسي روابطهم أسفله:
+
+- [مستودع الخاص بالسنة أولى ليسانس (بكالوريوس)](https://github.com/ezzobir/l1)
+- [مستودع الخاص بالسنة ثانية ليسانس (بكالوريوس)](https://github.com/ezzobir/l2)
+- [مستودع الخاص بالسنة ثالثة ليسانس (بكالوريوس)](https://github.com/ezzobir/l3)
+- [مستودع الخاص بالسنة أولى ماستر](https://github.com/ezzobir/m1)
+- [مستودع الخاص بالسنة ثانية ماستر](https://github.com/ezzobir/m2)
